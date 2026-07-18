@@ -185,7 +185,7 @@ Add screenshots or photographs here.
 
 ## 👨‍💻 Author
 
-**Malar**
+Poomalar R
 
 Electrical and Electronics Engineering (EEE)  
 Embedded Systems Enthusiast
