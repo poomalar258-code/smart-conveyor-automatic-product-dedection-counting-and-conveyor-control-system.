@@ -2,6 +2,7 @@
 
 An embedded automation project based on the **LPC2129 ARM7 Microcontroller** for automatic product detection, conveyor control, and product counting. The system uses **IR sensors** to detect products, controls a **DC conveyor motor** through an **L298N motor driver**, and displays the product count on a **16×2 LCD**.
 
+![Smart Conveyor System](Smart%20Conveyor%20System%20Infographic.png)
 ---
 
 ## 📖 Overview
